@@ -45,10 +45,10 @@ function Dashboard() {
 
   return (
     <>
-      <header className="header">
-        <div className="header__logo">Employee Portal</div>
-        <nav className="header__nav">
-          <a href="/" className="header__link">
+      <header className="bg-black text-white shadow-md px-6 py-4 flex items-center justify-between">
+        <div className="text-xl font-bold tracking-wide">Employee Portal</div>
+        <nav >
+          <a href="/" className="bg-red-500 hover:bg-red-600 text-white px-4 py-2 rounded-md transition">
             Logout
           </a>
         </nav>
