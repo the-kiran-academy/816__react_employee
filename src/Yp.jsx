@@ -3,7 +3,7 @@ import React from 'react'
 function Yp() {
     return (
         <div>
-            <h1>YP</h1>
+            <h1>hiP</h1>
 
         </div>
     )
